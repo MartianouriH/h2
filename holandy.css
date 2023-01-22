@@ -107,7 +107,9 @@ tr {
 
 
     .cmon {
-        font-size: 34px;
+    
+        font-size: 50px;
+  
     }
     tr {
         gap: 50px;
@@ -123,7 +125,6 @@ tr {
         margin-top: 200px;
     }    
     .main {
-        border: black solid;
         height: 5500px;
         width: 1200px;
         margin: 0 auto;
